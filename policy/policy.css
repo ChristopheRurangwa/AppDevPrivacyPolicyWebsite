@@ -1,0 +1,41 @@
+
+html {
+    text-rendering: optimizeLegibility;
+    background-color:rgb(0, 0, 0);
+    
+    font-weight: 296;
+    font-family: 'Arial', sans-serif;
+
+    font-size: 19.6px;
+
+}
+
+#poli{
+    color: white;
+    margin-left: 570px;
+    
+}
+.ava {
+    vertical-align: middle;
+    width: 501px;
+    height: 500px;
+  background-color:rgb(226, 240, 226);
+    border-radius: 101%;
+    -webkit-border-radius: 101%;
+    -moz-border-radius: 101%;
+    -ms-border-radius: 101%;
+    -o-border-radius: 101%;
+
+    margin-left: 460px;
+}
+.para {
+
+color: white;
+text-align: center;
+}
+footer{
+    
+    text-align: center;
+    color:green;
+    background-color:rgb(2, 16, 61);
+}
